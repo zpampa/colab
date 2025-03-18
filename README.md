@@ -1,3 +1,1 @@
 # Colaboration
-
-Text text text
